@@ -1,0 +1,86 @@
+[
+  {
+    "path": "/",
+    "title": "Live Online & In-Person Programs | talent-share",
+    "description": "Find live learning programs and providers you can ask questions. Compare the level, schedule, and requirements, then book online or in person.",
+    "primary_keyword": "live online and in-person programs"
+  },
+  {
+    "path": "/how-it-works/",
+    "title": "How talent-share Works | Find, Book & Attend Live Programs",
+    "description": "Learn how to choose a talent-share program, check the details, book a date, and attend online or in person. Find your schedule, resources, and messages in one place.",
+    "primary_keyword": "how talent-share works"
+  },
+  {
+    "path": "/learning-experience/",
+    "title": "Live Learning Features & Online Classroom | talent-share",
+    "description": "Explore talent-share\u2019s built-in video classroom, announcements, program discussions, private messages, program files, and session reminders.",
+    "primary_keyword": "talent-share live learning features"
+  },
+  {
+    "path": "/teach/",
+    "title": "Become a Provider & Teach Live Programs | talent-share",
+    "description": "Reach seekers with live online or in-person programs. Build your provider profile, set your program details, and manage enrollments and sessions with talent-share.",
+    "primary_keyword": "become a provider on talent-share"
+  },
+  {
+    "path": "/subjects/",
+    "title": "Explore Learning Subjects & Program Guides | talent-share",
+    "description": "Explore guides to creative skills, technology, cooking, music, movement, and communication. Find out what to consider before choosing a live program.",
+    "primary_keyword": "live learning subject guides"
+  },
+  {
+    "path": "/subjects/arts-and-crafts/",
+    "title": "Live art programs and craft workshops | talent-share",
+    "description": "Explore arts & crafts learning with talent-share. Compare formats, check requirements, and learn what to ask before choosing a live program.",
+    "primary_keyword": "live art programs and craft workshops"
+  },
+  {
+    "path": "/subjects/technology-and-digital-skills/",
+    "title": "Live technology programs and digital skills training | talent-share",
+    "description": "Explore technology & digital skills learning with talent-share. Compare formats, check requirements, and learn what to ask before choosing a live program.",
+    "primary_keyword": "live technology programs and digital skills training"
+  },
+  {
+    "path": "/subjects/food-and-cooking/",
+    "title": "Live cooking programs and culinary workshops | talent-share",
+    "description": "Explore food & cooking learning with talent-share. Compare formats, check requirements, and learn what to ask before choosing a live program.",
+    "primary_keyword": "live cooking programs and culinary workshops"
+  },
+  {
+    "path": "/subjects/music-and-performance/",
+    "title": "Live music lessons and performance programs | talent-share",
+    "description": "Explore music & performance learning with talent-share. Compare formats, check requirements, and learn what to ask before choosing a live program.",
+    "primary_keyword": "live music lessons and performance programs"
+  },
+  {
+    "path": "/subjects/movement-and-wellbeing/",
+    "title": "Live movement programs and wellbeing programs | talent-share",
+    "description": "Explore movement & wellbeing learning with talent-share. Compare formats, check requirements, and learn what to ask before choosing a live program.",
+    "primary_keyword": "live movement programs and wellbeing programs"
+  },
+  {
+    "path": "/subjects/business-and-communication/",
+    "title": "Live business programs and communication coaching | talent-share",
+    "description": "Explore business & communication learning with talent-share. Compare formats, check requirements, and learn what to ask before choosing a live program.",
+    "primary_keyword": "live business programs and communication coaching"
+  },
+  {
+    "path": "/trust/",
+    "title": "Booking, Payments & Provider Profiles | talent-share",
+    "description": "Understand provider profiles, reviews, program details, Stripe checkout, and private program spaces before booking a talent-share program.",
+    "primary_keyword": "talent-share booking and payments"
+  },
+  {
+    "path": "/faq/",
+    "title": "talent-share FAQs | Learning, Teaching & Booking",
+    "description": "Get answers about talent-share programs, online programs, accounts, provider applications, payments, resources, and reviews.",
+    "primary_keyword": "talent-share FAQs"
+  },
+  {
+    "path": "/about/",
+    "title": "About talent-share | A Marketplace for Live Learning",
+    "description": "talent-share connects seekers and providers through live online and in-person programs. Learn about the marketplace and the experience built around each program.",
+    "primary_keyword": "about talent-share"
+  }
+]
